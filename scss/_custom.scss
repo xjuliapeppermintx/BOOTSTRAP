@@ -4,17 +4,15 @@ $container-max-widths: (
   lg: 960px,
   xl: 1170px
 ) !default;
+// $carousel-control-prev-icon-bg: url("../../images/truck.png") no-repeat;
 
-$secondary: transparent;
-$primary: #fff;
-$btn-font-size-sm: 14px;
-$font-family-base: 'Open Sans', sans-serif;
-$btn-padding-y-sm: 3px;
-$btn-padding-x-sm: 8px;
-$btn-border-radius-sm: 4px;
-$btn-border-width: 2px;
-$carousel-indicator-width: 11px; 
-$carousel-indicator-height: 11px;
-$btn-border-radius: 4px;
-$btn-font-size: 14px;
-$h2-font-size: 36px;
+$navbar-light-color: #fff;
+$navbar-light-active-color: #fff;
+$navbar-light-hover-color: #fff;
+$navbar-padding-y: 5px;
+$nav-link-padding-y: 0;
+$carousel-indicator-width: 8px;
+$carousel-indicator-height: 8px;
+$carousel-control-prev-icon-bg: none;
+$carousel-control-next-icon-bg: none;
+$carousel-control-width: 0;
